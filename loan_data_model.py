@@ -196,8 +196,6 @@ else:
     print("reject")
 #print(prediction)
 
-model = LogisticRegression()
-
 #evaluation = f1_score(y_test, prediction)
 #print(evaluation)
 
